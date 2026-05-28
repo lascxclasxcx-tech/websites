@@ -1,4 +1,4 @@
-# 简介
+wt# 简介
 
 Shizuku 可以帮助普通应用借助一个由 app_process 启动的 Java 进程直接以 adb 或 root 特权使用系统 API。
 
